@@ -1,0 +1,8 @@
+[
+  {
+    "_comment": "This is just an example. You have to modify this file to your needs.",
+    "knock_listen_address": "127.0.0.1:1234",
+    "open_port": "9999",
+    "ttl": 60
+  }
+]
