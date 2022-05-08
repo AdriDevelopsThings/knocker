@@ -27,6 +27,8 @@ Replace the values with your needs.
 ```
 After ttl seconds the port will be blocked again.
 
+You can configure a other file path to your configuration file by setting the environment variable `KNOCKER_CONFIGURATION_FILE` to the file path.
+
 # How to use?
 
 Open a tcp connection to the `knock_listen_address`. The tcp connection will be closed after the establishment from the server. The open_port is now accessable by your ip address for ttl seconds.
